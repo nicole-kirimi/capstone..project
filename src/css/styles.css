@@ -1,1 +1,8 @@
- /* Your own styles comes here */
+body {
+    background-color: bisque;
+}
+
+.header {
+    font-style: italic;
+    text-align: center;
+}
