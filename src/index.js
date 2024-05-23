@@ -19,6 +19,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
         const totalAmount = caTotal + coTotal + dTotal + mTotal;
 
-        alert(`Order successful! Total amount: $${totalAmount.toFixed(2)}`);
+        alert(`Order successful! Total amount: Kshs.${totalAmount.toFixed(2)}`);
     });
 });
