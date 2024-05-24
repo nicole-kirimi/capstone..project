@@ -1,3 +1,7 @@
+import './css/styles.css'
+import './comm.js'
+import './signup.js'
+
 document.addEventListener("DOMContentLoaded", () => {
     const orderButton = document.getElementById("orderButton");
 
